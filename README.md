@@ -8,7 +8,7 @@ This is a fun interactive Color Guessing Game built with **HTML**, **CSS**, and 
 ✅ Smooth animations and modern design  
 
 ## 🎮 Live Demo :
-[Click here to play the game](https://MeghanaKesireddy.github.io/color-guess-game/)   
+[Click here to play the game]https://color-guessing-game-meghana.netlify.app/  
 
 ## 💻 Tech Stack:
 - HTML  
